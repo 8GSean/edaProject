@@ -5,4 +5,5 @@ Visualizations showed relationships between subscribers and views, subscribers a
 Notably, the 'Shows' and 'Pets & Animals' categories emerged as both the fastest-growing and highest-earning, representing lucrative niche markets.
 
 The data analysis suggests starting a channel in these categories could be advantageous, but caution is warranted due to potential data limitations and inaccuracies. Overall, this EDA provides insights for those considering entering the YouTube content creation space.
+
 link to kaggle notebook: https://www.kaggle.com/code/seangr/sean-final-project-eda
