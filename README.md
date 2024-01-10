@@ -6,4 +6,7 @@ Notably, the 'Shows' and 'Pets & Animals' categories emerged as both the fastest
 
 The data analysis suggests aiming a channel in these directions could be advantageous, but caution is warranted due to potential data limitations. Overall, this EDA provides insights for those considering entering the YouTube content creation space.
 
+![image](https://github.com/8GSean/edaProject/assets/107606977/9368d4ac-e00b-4ceb-9ebc-2d08c572824b)
+
+
 link to kaggle notebook: https://www.kaggle.com/code/seangr/sean-final-project-eda
