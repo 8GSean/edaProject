@@ -6,7 +6,7 @@ Visualizations showed relationships between subscribers and views, subscribers a
 Notably, the 'Shows' and 'Pets & Animals' categories emerged as both the fastest-growing and highest-earning, representing lucrative niche markets.
 
 The data analysis suggests aiming a channel in these directions could be advantageous, but caution is warranted due to potential data limitations. Overall, this EDA provides insights for those considering entering the YouTube content creation space.
-## Graph showing which categories are growing the fastest compared to the all categories
+## Graph showing which categories are growing the fastest relative to the overall average
 ![image](https://github.com/8GSean/edaProject/assets/107606977/9368d4ac-e00b-4ceb-9ebc-2d08c572824b)
 
 
